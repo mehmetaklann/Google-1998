@@ -1,3 +1,3 @@
 # Google 1998 UI 
 
-# Tarayıcı Uzaklığı : %90
+# Browser Distance : %90
