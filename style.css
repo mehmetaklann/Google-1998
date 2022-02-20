@@ -1,0 +1,41 @@
+.logo {
+    margin-bottom: 0px;
+    margin-left: 545px;
+    margin-right: 500px;
+}
+
+.search-box {
+    background-color: #EEEEEE;
+    text-align: center;
+    margin-left: 103px;
+    margin-right: 103px;
+}
+
+#search-title {
+    margin-bottom: 0;
+    width: 300px;
+    margin: auto;
+}
+
+.info-box {
+    padding-left: 100px;
+}
+
+.card{
+    float: left;
+    text-align: center;
+    margin:3px;
+    height: 111.56px;
+}
+.container {
+    padding: 100px;
+}
+.card p {
+    line-height: normal;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    clear: both;
+}
